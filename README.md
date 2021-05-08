@@ -1,1 +1,1 @@
-# gazcore.gitHub.io
+# gazcore.github.io
